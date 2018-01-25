@@ -1,0 +1,1013 @@
+﻿Log file open, 01/25/18 13:14:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: YoungBucks
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-262147886) SRandInit(-262147886).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.231378
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.25-12.14.40:457][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.25-12.14.40:458][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.25-12.14.40:966][  0]LogInit: Computer: ARTISS-SURFACE
+[2018.01.25-12.14.40:967][  0]LogInit: User: JulesAgostini
+[2018.01.25-12.14.40:967][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.01.25-12.14.40:967][  0]LogInit: High frequency timer resolution =2.437505 MHz
+[2018.01.25-12.14.40:968][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.25-12.14.40:968][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.25-12.14.40:968][  0]LogMemory: Process Physical Memory: 271.71 MB used, 271.71 MB peak
+[2018.01.25-12.14.40:968][  0]LogMemory: Process Virtual Memory: 269.36 MB used, 269.36 MB peak
+[2018.01.25-12.14.40:968][  0]LogMemory: Physical Memory: 4593.49 MB used,  3523.79 MB free, 8117.29 MB total
+[2018.01.25-12.14.40:968][  0]LogMemory: Virtual Memory: 678.27 MB used,  3523.79 MB free, 134217728.00 MB total
+[2018.01.25-12.14.41:862][  0]LogInit: Using OS detected language (fr-FR).
+[2018.01.25-12.14.41:862][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.01.25-12.14.41:868][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.01.25-12.14.41:869][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2018.01.25-12.14.43:099][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.25-12.14.44:226][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.25-12.14.44:239][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.01.25-12.14.44:239][  0]LogD3D11RHI:       128/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2018.01.25-12.14.44:243][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.25-12.14.44:243][  0]LogD3D11RHI:       0/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.25-12.14.44:243][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.25-12.14.44:255][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.25-12.14.44:256][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.25-12.14.44:256][  0]LogWindows: EnumDisplayDevices:
+[2018.01.25-12.14.44:256][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.01.25-12.14.44:256][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:1)
+[2018.01.25-12.14.44:257][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.01.25-12.14.44:257][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.25-12.14.44:257][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2018.01.25-12.14.44:257][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.25-12.14.44:257][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.25-12.14.44:257][  0]LogRHI: Texture pool is 1510 MB (70% of 2157 MB)
+[2018.01.25-12.14.44:269][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.25-12.14.44:279][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.01.25-12.14.44:281][  0]LogShaderCompilers: Guid format shader working directory is 24 characters bigger than the processId version (D:/Documents/GitHub/YoungBucks/Intermediate/Shaders/WorkingDirectory/16852/).
+[2018.01.25-12.14.44:281][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jules Agostini/AppData/Local/Temp/UnrealShaderWorkingDir/4C3689244A84051D8D7E28A3A62289CC/'.
+[2018.01.25-12.14.44:281][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.25-12.14.46:132][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.25-12.14.46:280][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.25-12.14.46:391][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.25-12.14.46:517][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.25-12.14.46:640][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.25-12.14.46:793][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.25-12.14.46:947][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.25-12.14.47:084][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.25-12.14.47:218][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.25-12.14.47:381][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.25-12.14.47:504][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.25-12.14.47:615][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.25-12.14.47:729][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.25-12.14.47:829][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.25-12.14.48:031][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.25-12.14.48:031][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.25-12.14.48:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.25-12.14.48:227][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.25-12.14.48:470][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.25-12.14.48:544][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.25-12.14.48:666][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.25-12.14.48:760][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.25-12.14.48:880][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.25-12.14.48:988][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.25-12.14.48:988][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.25-12.14.50:163][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.25-12.14.50:308][  0]LogDerivedDataCache: Loaded boot cache 0.14s 79MB C:/Users/Jules Agostini/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.25-12.14.50:308][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jules Agostini/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.25-12.14.50:308][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documents/GitHub/YoungBucks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.25-12.14.50:308][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.25-12.14.50:308][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documents/GitHub/YoungBucks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.25-12.14.50:308][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.25-12.14.50:345][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.25-12.14.50:359][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jules Agostini/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.25-12.14.50:384][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.25-12.14.50:384][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.25-12.14.50:385][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.25-12.14.50:385][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.25-12.14.51:258][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.25-12.14.52:113][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.25-12.14.52:217][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.25-12.14.52:217][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.25-12.14.52:217][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.25-12.14.52:217][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.25-12.14.52:217][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.25-12.14.52:284][  0]LogNetVersion: YoungBucks , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4009115726)
+[2018.01.25-12.14.52:704][  0]LogAssetRegistry: FAssetRegistry took 0.0332 seconds to start up
+[2018.01.25-12.14.54:181][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.508081 seconds
+[2018.01.25-12.14.54:203][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.25-12.14.54:203][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.01.25-12.14.54:203][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.25-12.14.54:524][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.25-12.15.02:670][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.25-12.15.02:797][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.25-12.15.05:095][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.25-12.15.06:310][  0]SourceControl: Source control is disabled
+[2018.01.25-12.15.06:310][  0]SourceControl: Source control is disabled
+[2018.01.25-12.15.06:432][  0]SourceControl: Source control is disabled
+[2018.01.25-12.15.06:550][  0]SourceControl: Source control is disabled
+[2018.01.25-12.15.08:736][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.25-12.15.09:599][  0]LogOcInput: OculusInput pre-init called
+[2018.01.25-12.15.10:380][  0]LogEngine: Initializing Engine...
+[2018.01.25-12.15.10:385][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.25-12.15.10:845][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.25-12.15.10:845][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.25-12.15.11:179][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.25-12.15.11:205][  0]LogInit: XAudio2 using 'Casque (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.25-12.15.11:236][  0]LogInit: FAudioDevice initialized.
+[2018.01.25-12.15.11:388][  0]LogDerivedDataCache: Saved boot cache 0.15s 79MB C:/Users/Jules Agostini/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.25-12.15.11:416][  0]LogInit: Texture streaming: Enabled
+[2018.01.25-12.15.11:656][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.25-12.15.11:998][  0]LogInit: Transaction tracking system initialized
+[2018.01.25-12.15.12:999][  0]BlueprintLog: New page: Editor Load
+[2018.01.25-12.15.15:743][  0]LocalizationService: Localization service is disabled
+[2018.01.25-12.15.18:464][  0]LogConsoleResponse: Display: 
+[2018.01.25-12.15.18:850][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.25-12.15.18:851][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.25-12.15.18:851][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.25-12.15.19:541][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/YoungBucks/Content/' took 0.02s
+[2018.01.25-12.15.22:365][  0]SourceControl: Source control is disabled
+[2018.01.25-12.15.22:584][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.25-12.15.22:585][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.25-12.15.22:679][  0]LogSlate: Took 0.000702 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.25-12.15.32:888][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.25-12.15.32:889][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.25-12.15.32:906][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.25-12.15.32:908][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.25-12.15.41:749][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.25-12.15.41:750][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.25-12.15.41:774][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.25-12.15.41:775][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.25-12.15.42:565][  0]Cmd: MAP LOAD FILE="D:/Documents/GitHub/YoungBucks/Content/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.25-12.15.42:568][  0]LightingResults: New page: Lighting Build
+[2018.01.25-12.15.42:826][  0]MapCheck: New page: Map Check
+[2018.01.25-12.15.42:826][  0]LightingResults: New page: Lighting Build
+[2018.01.25-12.15.53:668][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.25-12.15.53:747][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.01.25-12.15.53:852][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.25-12.15.54:150][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 297.594ms to complete.
+[2018.01.25-12.15.54:151][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 11.587
+[2018.01.25-12.15.54:590][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_f4_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_152c_0///####STATCAT_Advanced####
+[2018.01.25-12.15.54:590][  0]LogCollectionManager: Loaded 0 collections in 0.005295 seconds
+[2018.01.25-12.15.54:742][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/YoungBucks/Saved/Collections/' took 0.01s
+[2018.01.25-12.15.54:742][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/YoungBucks/Content/Developers/JulesAgostini/Collections/' took 0.01s
+[2018.01.25-12.15.54:742][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/YoungBucks/Content/Collections/' took 0.01s
+[2018.01.25-12.15.54:743][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.25-12.15.54:762][  0]LogContentBrowser: Native class hierarchy populated in 0.0189 seconds. Added 2363 classes and 519 folders.
+[2018.01.25-12.15.55:006][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.01.25-12.15.55:100][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.25-12.15.55:201][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.25-12.15.55:459][  0]LogSlate: Took 0.000782 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.25-12.15.55:485][  0]LogSlate: Took 0.000649 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.25-12.15.55:834][  0]LogRenderer: Reallocating scene render targets to support 1152x620 Format 9 NumSamples 1 (Frame:1).
+[2018.01.25-12.15.57:187][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.01.25-12.15.57:187][  0]LogLoad: (Engine Initialization) Total time: 86.57 seconds
+[2018.01.25-12.15.57:187][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.25-12.15.57:188][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.25-12.15.57:238][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.01.25-12.15.57:282][  0]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.25-12.15.58:086][  3]LogAssetRegistry: Asset discovery search completed in 65.4053 seconds
+[2018.01.25-12.15.58:091][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.01.25-12.15.58:092][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000332 seconds (updated 0 objects)
+[2018.01.25-12.15.58:394][  7]LogSlate: Took 0.000516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.25-12.16.03:464][162]LogSlate: Took 0.001216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.25-12.16.04:297][162]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.25-12.16.04:470][162]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 116 classes and 0 folders.
+[2018.01.25-12.16.08:436][162]LogSlate: Took 0.000473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.25-12.16.08:710][163]LogSlate: Took 0.001090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.25-12.17.48:128][763]BlueprintLog: New page: Compile BP_SurvivalCharacter
+[2018.01.25-12.18.01:666][198]BlueprintLog: New page: Compile BP_SurvivalCharacter
+[2018.01.25-12.18.07:159][244]LogSavePackage: Save=1907.64ms
+[2018.01.25-12.18.07:159][244]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_SurvivalCharacter771AE05B4801E97A3CD724BB91126DD8.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/Character/ThirdPersonBP/Blueprints/BP_SurvivalCharacter.uasset'
+[2018.01.25-12.18.07:174][244]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/Character/ThirdPersonBP/Blueprints/BP_SurvivalCharacter.uasset
+[2018.01.25-12.18.56:066][ 50]LoadErrors: Error: /Game/Items/BP_BaseClothes : Failed import for SKEL_BP_BaseClothes_C /Game/InventoryItems/Items/BP_BaseClothes.Default__SKEL_BP_BaseClothes_C Referenced by export ObjectRedirector /Game/Items/BP_BaseClothes.Default__SKEL_BP_BaseClothes_C
+[2018.01.25-12.18.56:066][ 50]LoadErrors: Error: /Game/Items/BP_BaseConsumable : Failed import for SKEL_BP_BaseConsumable_C /Game/InventoryItems/Items/BP_BaseConsumable.Default__SKEL_BP_BaseConsumable_C Referenced by export ObjectRedirector /Game/Items/BP_BaseConsumable.Default__SKEL_BP_BaseConsumable_C
+[2018.01.25-12.18.56:066][ 50]LoadErrors: Error: /Game/Items/BP_BaseUpgrades : Failed import for SKEL_BP_BaseUpgrades_C /Game/InventoryItems/Items/BP_BaseUpgrades.Default__SKEL_BP_BaseUpgrades_C Referenced by export ObjectRedirector /Game/Items/BP_BaseUpgrades.Default__SKEL_BP_BaseUpgrades_C
+[2018.01.25-12.19.44:170][339]LogBlueprint: Warning: [Compiler BP_PickupActor] Get : 'InventoryRef' variable not found. Base class was probably changed. /Game/InventoryItems/Blueprints/ItemClasses/BP_PickupActor.BP_PickupActor
+[2018.01.25-12.19.44:174][339]LogBlueprint: Warning: [Compiler BP_PickupActor] Could not find a variable named "InventoryRef" in 'BP_PickupActor'.
+Make sure 'BP_PickupActor' has been compiled for  Get InventoryRef
+[2018.01.25-12.19.44:174][339]LogBlueprint: Error: [Compiler BP_PickupActor] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.01.25-12.19.44:175][339]LogBlueprint: Error: [Compiler BP_PickupActor] In use pin  As Top Down Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.01.25-12.19.44:175][339]LogBlueprint: Error: [Compiler BP_PickupActor] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.01.25-12.19.44:176][339]LogBlueprint: Error: [Compiler BP_PickupActor] The property associated with  Inventory Ref  could not be found
+[2018.01.25-12.19.44:178][339]LogBlueprint: Warning: [Compiler BP_PickupActor] [0313.57] Compile of BP_PickupActor failed. 4 Fatal Issue(s) 2 Warning(s) [in 10 ms] (/Game/InventoryItems/Blueprints/ItemClasses/BP_PickupActor.BP_PickupActor)
+[2018.01.25-12.21.19:649][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/S_InteractableVariables.S_InteractableVariables' ref from Metadata '/Game/InventoryItems/Datas/InteractData/S_InteractableVariables.PackageMetaData'
+[2018.01.25-12.21.19:649][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/S_InteractableVariables.S_InteractableVariables:Dot_2_8198C9B64037120424871D9995A01203' ref from Metadata '/Game/InventoryItems/Datas/InteractData/S_InteractableVariables.PackageMetaData'
+[2018.01.25-12.21.19:650][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/S_InteractableVariables.S_InteractableVariables:Interactable_5_CFA8952C43B4194B7E6242B486F2BEE2' ref from Metadata '/Game/InventoryItems/Datas/InteractData/S_InteractableVariables.PackageMetaData'
+[2018.01.25-12.21.19:891][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/S_ItemInfo.S_ItemInfo' ref from Metadata '/Game/InventoryItems/Datas/S_ItemInfo.PackageMetaData'
+[2018.01.25-12.21.19:892][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/S_ItemInfo.S_ItemInfo:ItemType_12_51656F684D3CCA5B17904AA0A7BF8BEF' ref from Metadata '/Game/InventoryItems/Datas/S_ItemInfo.PackageMetaData'
+[2018.01.25-12.21.19:892][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/S_ItemInfo.S_ItemInfo:ItemName_13_C88D91504ADA87156E1985A549E60E4D' ref from Metadata '/Game/InventoryItems/Datas/S_ItemInfo.PackageMetaData'
+[2018.01.25-12.21.19:892][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/S_ItemInfo.S_ItemInfo:ItemDescription_14_E80E749E4A13B0462052D2A5D6E30B36' ref from Metadata '/Game/InventoryItems/Datas/S_ItemInfo.PackageMetaData'
+[2018.01.25-12.21.19:893][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/S_ItemInfo.S_ItemInfo:ItemIcon_15_3770BE9C4B3CFB4875065AA0176F43AD' ref from Metadata '/Game/InventoryItems/Datas/S_ItemInfo.PackageMetaData'
+[2018.01.25-12.21.19:893][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/S_ItemInfo.S_ItemInfo:ItemClass_18_5AC1F8DA4D1E8C644FB61BACAC0FA873' ref from Metadata '/Game/InventoryItems/Datas/S_ItemInfo.PackageMetaData'
+[2018.01.25-12.21.19:893][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/S_ItemInfo.S_ItemInfo:ItemIndex_17_0293B6FC46A49B8CAE89D8B937940C2F' ref from Metadata '/Game/InventoryItems/Datas/S_ItemInfo.PackageMetaData'
+[2018.01.25-12.21.20:144][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/E_ItemType.E_ItemType' ref from Metadata '/Game/InventoryItems/Datas/E_ItemType.PackageMetaData'
+[2018.01.25-12.21.20:288][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:289][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract:SetOutline.K2Node_FunctionEntry_84' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:289][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:289][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:290][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:TriggerSize' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:290][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:MeshScale' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:290][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:Scene' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:290][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:SM_Item' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:291][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:TriggerInteract' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:291][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:UserConstructionScript' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:291][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:ExecuteUbergraph_BP_BaseInteract' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:291][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:BndEvt__TriggerInteract_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:291][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:BndEvt__TriggerInteract_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:292][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:BndEvt__TriggerInteract_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:292][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:BndEvt__TriggerInteract_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:292][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:TriggerSize' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:292][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:MeshScale' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:292][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:Scene' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:292][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:SM_Item' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:293][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:TriggerInteract' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:293][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:UserConstructionScript' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.21.20:618][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BPI_Interact.BPI_Interact_C' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BPI_Interact.PackageMetaData'
+[2018.01.25-12.21.20:618][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BPI_Interact.BPI_Interact:Interaction.K2Node_FunctionEntry_2' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BPI_Interact.PackageMetaData'
+[2018.01.25-12.21.20:618][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BPI_Interact.BPI_Interact:PickUp.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BPI_Interact.PackageMetaData'
+[2018.01.25-12.21.20:618][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BPI_Interact.BPI_Interact:RegisterInteractable.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BPI_Interact.PackageMetaData'
+[2018.01.25-12.21.20:618][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BPI_Interact.BPI_Interact:UnregisterInteractable.K2Node_FunctionEntry_1' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BPI_Interact.PackageMetaData'
+[2018.01.25-12.21.20:619][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BPI_Interact.BPI_Interact:UseItem.K2Node_FunctionEntry_1' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BPI_Interact.PackageMetaData'
+[2018.01.25-12.21.20:619][283]LogMetaData: Removing '/Game/InventoryItems/Blueprints/InteractData/BPI_Interact.SKEL_BPI_Interact_C' ref from Metadata '/Game/InventoryItems/Datas/InteractData/BPI_Interact.PackageMetaData'
+[2018.01.25-12.21.21:163][283]LogSavePackage: Save=74.19ms
+[2018.01.25-12.21.21:163][283]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/S_InteractableVariables01A35EBC41F24D10F438A28AA1CAF0DF.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Blueprints/InteractData/S_InteractableVariables.uasset'
+[2018.01.25-12.21.21:184][283]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Blueprints/InteractData/S_InteractableVariables.uasset
+[2018.01.25-12.21.21:202][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryItems/Blueprints/S_ItemInfo" FILE="D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Blueprints/S_ItemInfo.uasset" SILENT=true
+[2018.01.25-12.21.21:321][283]LogSavePackage: Save=53.08ms
+[2018.01.25-12.21.21:321][283]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/S_ItemInfo8E2A25CF411FE7FDE3632FA0B2AE0CF9.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Blueprints/S_ItemInfo.uasset'
+[2018.01.25-12.21.21:339][283]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Blueprints/S_ItemInfo.uasset
+[2018.01.25-12.21.21:357][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryItems/Blueprints/E_ItemType" FILE="D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Blueprints/E_ItemType.uasset" SILENT=true
+[2018.01.25-12.21.21:459][283]LogSavePackage: Save=41.65ms
+[2018.01.25-12.21.21:459][283]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/E_ItemTypeD0B943D2466534C1F0530BBD04924F93.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Blueprints/E_ItemType.uasset'
+[2018.01.25-12.21.21:468][283]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Blueprints/E_ItemType.uasset
+[2018.01.25-12.21.21:599][283]LogSavePackage: Save=90.68ms
+[2018.01.25-12.21.21:599][283]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseInteract336753A3486E43290FA2028C64C3C4F7.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Blueprints/InteractData/BP_BaseInteract.uasset'
+[2018.01.25-12.21.21:608][283]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Blueprints/InteractData/BP_BaseInteract.uasset
+[2018.01.25-12.21.21:755][283]LogSavePackage: Save=94.86ms
+[2018.01.25-12.21.21:756][283]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BPI_Interact3D54332A49126F802A57DAA1A72AD446.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Blueprints/InteractData/BPI_Interact.uasset'
+[2018.01.25-12.21.21:783][283]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Blueprints/InteractData/BPI_Interact.uasset
+[2018.01.25-12.21.21:911][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryItems/Blueprints/InteractData/M_Outline" FILE="D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Blueprints/InteractData/M_Outline.uasset" SILENT=true
+[2018.01.25-12.21.22:154][283]LogSavePackage: Save=201.56ms
+[2018.01.25-12.21.22:154][283]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/M_OutlineD5F49D70406BD4D4EF79D890E0B6769A.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Blueprints/InteractData/M_Outline.uasset'
+[2018.01.25-12.21.22:171][283]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Blueprints/InteractData/M_Outline.uasset
+[2018.01.25-12.21.26:717][283]LogSavePackage: Save=3033.17ms
+[2018.01.25-12.21.26:717][283]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_SurvivalCharacter0B50B832451FBD1420EE78B25C67904F.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/Character/ThirdPersonBP/Blueprints/BP_SurvivalCharacter.uasset'
+[2018.01.25-12.21.26:726][283]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/Character/ThirdPersonBP/Blueprints/BP_SurvivalCharacter.uasset
+[2018.01.25-12.21.26:742][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryItems/Items/BP_BaseItem" FILE="D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseItem.uasset" SILENT=true
+[2018.01.25-12.21.26:906][283]LogSavePackage: Save=92.63ms
+[2018.01.25-12.21.26:906][283]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseItemC8AEB48647D7633F5FAF52B1A4CD51F7.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseItem.uasset'
+[2018.01.25-12.21.26:915][283]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseItem.uasset
+[2018.01.25-12.21.26:922][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryItems/Widgets/UI_Inventory" FILE="D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Widgets/UI_Inventory.uasset" SILENT=true
+[2018.01.25-12.21.27:270][283]LogSavePackage: Save=281.99ms
+[2018.01.25-12.21.27:270][283]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/UI_Inventory58BEFF6247476414F232728EC83D470C.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Widgets/UI_Inventory.uasset'
+[2018.01.25-12.21.27:280][283]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Widgets/UI_Inventory.uasset
+[2018.01.25-12.21.27:287][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryItems/Widgets/UI_InventorySlot" FILE="D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Widgets/UI_InventorySlot.uasset" SILENT=true
+[2018.01.25-12.21.27:439][283]LogSavePackage: Save=81.66ms
+[2018.01.25-12.21.27:439][283]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/UI_InventorySlotB861D17849440A187F52A3BE97A17955.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Widgets/UI_InventorySlot.uasset'
+[2018.01.25-12.21.27:449][283]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Widgets/UI_InventorySlot.uasset
+[2018.01.25-12.21.27:456][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryItems/Items/BP_BaseClothes" FILE="D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseClothes.uasset" SILENT=true
+[2018.01.25-12.21.27:549][283]LogSavePackage: Save=35.95ms
+[2018.01.25-12.21.27:549][283]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseClothesB260D1114828AC66AD558A9CB873028B.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseClothes.uasset'
+[2018.01.25-12.21.27:558][283]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseClothes.uasset
+[2018.01.25-12.21.27:565][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryItems/Items/BP_BaseConsumable" FILE="D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseConsumable.uasset" SILENT=true
+[2018.01.25-12.21.27:679][283]LogSavePackage: Save=44.23ms
+[2018.01.25-12.21.27:679][283]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseConsumable198B164F43F45B3BA067A3B7CFDC7E03.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseConsumable.uasset'
+[2018.01.25-12.21.27:690][283]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseConsumable.uasset
+[2018.01.25-12.21.27:698][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryItems/Items/BP_BaseUpgrades" FILE="D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseUpgrades.uasset" SILENT=true
+[2018.01.25-12.21.27:829][283]LogSavePackage: Save=50.55ms
+[2018.01.25-12.21.27:829][283]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseUpgradesA85D86C940F085DDA5EFC888BD3A8F49.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseUpgrades.uasset'
+[2018.01.25-12.21.27:841][283]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseUpgrades.uasset
+[2018.01.25-12.21.44:066][695]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.25-12.21.45:049][695]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.25-12.21.45:050][695]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.25-12.21.45:432][695]LogPlayLevel: [PlayLevel] Compiling BP_SurvivalCharacter before play...
+[2018.01.25-12.21.47:125][695]LogPlayLevel: [PlayLevel] Compiling BP_BaseItem before play...
+[2018.01.25-12.21.47:132][695]LogPlayLevel: [PlayLevel]   Compiling BP_BaseClothes as a dependent...
+[2018.01.25-12.21.47:134][695]LogPlayLevel: [PlayLevel]   Compiling BP_BaseConsumable as a dependent...
+[2018.01.25-12.21.47:136][695]LogPlayLevel: [PlayLevel]   Compiling BP_BaseUpgrades as a dependent...
+[2018.01.25-12.21.48:001][695]LogPlayLevel: [PlayLevel] Compiling UI_Inventory before play...
+[2018.01.25-12.21.48:094][695]LogPlayLevel: [PlayLevel] Compiling UI_InventorySlot before play...
+[2018.01.25-12.21.48:161][695]LogPlayLevel: PlayLevel: Blueprint regeneration took 3111 ms (7 blueprints)
+[2018.01.25-12.21.48:161][695]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 25, 2018, 2:21:48 PM)
+[2018.01.25-12.21.48:243][695]LogPlayLevel: Creating play world package: /Game/Character/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.25-12.21.48:306][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063654s)
+[2018.01.25-12.21.48:309][695]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.25-12.21.48:310][695]LogPlayLevel: PIE: World Init took: (0.003326s)
+[2018.01.25-12.21.48:311][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Character/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.068597s)
+[2018.01.25-12.21.48:393][695]LogInit: XAudio2 using 'Casque (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.25-12.21.48:430][695]LogInit: FAudioDevice initialized.
+[2018.01.25-12.21.49:387][695]LogLoad: Game class is 'BP_SurvivalGameMode_C'
+[2018.01.25-12.21.49:402][695]LogWorld: Bringing World /Game/Character/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.25-13.21.49
+[2018.01.25-12.21.49:404][695]LogWorld: Bringing up level for play took: 0.014731
+[2018.01.25-12.21.49:690][695]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0020 seconds. Added 11 classes and 0 folders.
+[2018.01.25-12.21.49:697][695]PIE: Play in editor start time for /Game/Character/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 4.664
+[2018.01.25-12.21.49:698][695]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.25-12.21.52:079][767]LogScript: Warning: Accessed None trying to read property UI_InventoryRef
+	BP_SurvivalCharacter_C /Game/Character/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/Character/ThirdPersonBP/Blueprints/BP_SurvivalCharacter.BP_SurvivalCharacter_C:ExecuteUbergraph_BP_SurvivalCharacter:0326
+[2018.01.25-12.21.52:081][767]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property UI_InventoryRef from function: 'ExecuteUbergraph_BP_SurvivalCharacter' from node: Remove from Parent in graph: EventGraph in object: BP_SurvivalCharacter with description: Accessed None trying to read property UI_InventoryRef
+[2018.01.25-12.21.53:008][808]LogScript: Warning: Accessed None trying to read property UI_InventoryRef
+	BP_SurvivalCharacter_C /Game/Character/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/Character/ThirdPersonBP/Blueprints/BP_SurvivalCharacter.BP_SurvivalCharacter_C:ExecuteUbergraph_BP_SurvivalCharacter:044C
+[2018.01.25-12.21.53:008][808]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property UI_InventoryRef from function: 'ExecuteUbergraph_BP_SurvivalCharacter' from node: Add to Viewport in graph: EventGraph in object: BP_SurvivalCharacter with description: Accessed None trying to read property UI_InventoryRef
+[2018.01.25-12.21.55:785][930]LogScript: Warning: Accessed None trying to read property UI_InventoryRef
+	BP_SurvivalCharacter_C /Game/Character/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/Character/ThirdPersonBP/Blueprints/BP_SurvivalCharacter.BP_SurvivalCharacter_C:ExecuteUbergraph_BP_SurvivalCharacter:0326
+[2018.01.25-12.21.55:785][930]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property UI_InventoryRef from function: 'ExecuteUbergraph_BP_SurvivalCharacter' from node: Remove from Parent in graph: EventGraph in object: BP_SurvivalCharacter with description: Accessed None trying to read property UI_InventoryRef
+[2018.01.25-12.22.15:162][712]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.25-12.22.15:213][712]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.25-12.22.49:465][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/S_InteractableVariables.S_InteractableVariables' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/S_InteractableVariables.PackageMetaData'
+[2018.01.25-12.22.49:465][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/S_InteractableVariables.S_InteractableVariables:Dot_2_8198C9B64037120424871D9995A01203' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/S_InteractableVariables.PackageMetaData'
+[2018.01.25-12.22.49:466][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/S_InteractableVariables.S_InteractableVariables:Interactable_5_CFA8952C43B4194B7E6242B486F2BEE2' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/S_InteractableVariables.PackageMetaData'
+[2018.01.25-12.22.49:581][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/S_ItemInfo.S_ItemInfo' ref from Metadata '/Game/InventoryItems/Blueprints/S_ItemInfo.PackageMetaData'
+[2018.01.25-12.22.49:582][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/S_ItemInfo.S_ItemInfo:ItemType_12_51656F684D3CCA5B17904AA0A7BF8BEF' ref from Metadata '/Game/InventoryItems/Blueprints/S_ItemInfo.PackageMetaData'
+[2018.01.25-12.22.49:582][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/S_ItemInfo.S_ItemInfo:ItemName_13_C88D91504ADA87156E1985A549E60E4D' ref from Metadata '/Game/InventoryItems/Blueprints/S_ItemInfo.PackageMetaData'
+[2018.01.25-12.22.49:582][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/S_ItemInfo.S_ItemInfo:ItemDescription_14_E80E749E4A13B0462052D2A5D6E30B36' ref from Metadata '/Game/InventoryItems/Blueprints/S_ItemInfo.PackageMetaData'
+[2018.01.25-12.22.49:583][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/S_ItemInfo.S_ItemInfo:ItemIcon_15_3770BE9C4B3CFB4875065AA0176F43AD' ref from Metadata '/Game/InventoryItems/Blueprints/S_ItemInfo.PackageMetaData'
+[2018.01.25-12.22.49:583][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/S_ItemInfo.S_ItemInfo:ItemClass_18_5AC1F8DA4D1E8C644FB61BACAC0FA873' ref from Metadata '/Game/InventoryItems/Blueprints/S_ItemInfo.PackageMetaData'
+[2018.01.25-12.22.49:583][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/S_ItemInfo.S_ItemInfo:ItemIndex_17_0293B6FC46A49B8CAE89D8B937940C2F' ref from Metadata '/Game/InventoryItems/Blueprints/S_ItemInfo.PackageMetaData'
+[2018.01.25-12.22.49:701][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/E_ItemType.E_ItemType' ref from Metadata '/Game/InventoryItems/Blueprints/E_ItemType.PackageMetaData'
+[2018.01.25-12.22.49:758][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:758][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:UserConstructionScript' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:759][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:BndEvt__TriggerInteract_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:759][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:BndEvt__TriggerInteract_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:759][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:ExecuteUbergraph_BP_BaseInteract' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:760][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:TriggerInteract' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:760][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:SM_Item' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:760][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:Scene' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:761][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:MeshScale' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:761][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract_C:TriggerSize' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:761][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:762][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract:SetOutline.K2Node_FunctionEntry_84' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:762][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.BP_BaseInteract:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:763][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:BndEvt__TriggerInteract_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:763][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:BndEvt__TriggerInteract_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:763][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:TriggerSize' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:763][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:MeshScale' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:764][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:Scene' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:764][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:SM_Item' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:764][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:TriggerInteract' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:764][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BP_BaseInteract.SKEL_BP_BaseInteract_C:UserConstructionScript' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BP_BaseInteract.PackageMetaData'
+[2018.01.25-12.22.49:866][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BPI_Interact.BPI_Interact_C' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BPI_Interact.PackageMetaData'
+[2018.01.25-12.22.49:867][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BPI_Interact.SKEL_BPI_Interact_C' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BPI_Interact.PackageMetaData'
+[2018.01.25-12.22.49:867][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BPI_Interact.BPI_Interact:Interaction.K2Node_FunctionEntry_2' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BPI_Interact.PackageMetaData'
+[2018.01.25-12.22.49:867][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BPI_Interact.BPI_Interact:PickUp.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BPI_Interact.PackageMetaData'
+[2018.01.25-12.22.49:867][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BPI_Interact.BPI_Interact:RegisterInteractable.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BPI_Interact.PackageMetaData'
+[2018.01.25-12.22.49:867][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BPI_Interact.BPI_Interact:UnregisterInteractable.K2Node_FunctionEntry_1' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BPI_Interact.PackageMetaData'
+[2018.01.25-12.22.49:867][513]LogMetaData: Removing '/Game/InventorySystem/Blueprints/InteractData/BPI_Interact.BPI_Interact:UseItem.K2Node_FunctionEntry_1' ref from Metadata '/Game/InventoryItems/Blueprints/InteractData/BPI_Interact.PackageMetaData'
+[2018.01.25-12.22.49:977][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseItem.BP_BaseItem_C' ref from Metadata '/Game/InventoryItems/Items/BP_BaseItem.PackageMetaData'
+[2018.01.25-12.22.49:978][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseItem.BP_BaseItem_C:ExecuteUbergraph_BP_BaseItem' ref from Metadata '/Game/InventoryItems/Items/BP_BaseItem.PackageMetaData'
+[2018.01.25-12.22.49:978][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseItem.BP_BaseItem_C:UserConstructionScript' ref from Metadata '/Game/InventoryItems/Items/BP_BaseItem.PackageMetaData'
+[2018.01.25-12.22.49:978][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseItem.BP_BaseItem_C:ItemInfo' ref from Metadata '/Game/InventoryItems/Items/BP_BaseItem.PackageMetaData'
+[2018.01.25-12.22.49:979][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseItem.SKEL_BP_BaseItem_C:UserConstructionScript' ref from Metadata '/Game/InventoryItems/Items/BP_BaseItem.PackageMetaData'
+[2018.01.25-12.22.49:979][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseItem.BP_BaseItem:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryItems/Items/BP_BaseItem.PackageMetaData'
+[2018.01.25-12.22.49:979][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseItem.SKEL_BP_BaseItem_C:ItemInfo' ref from Metadata '/Game/InventoryItems/Items/BP_BaseItem.PackageMetaData'
+[2018.01.25-12.22.49:979][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseItem.SKEL_BP_BaseItem_C' ref from Metadata '/Game/InventoryItems/Items/BP_BaseItem.PackageMetaData'
+[2018.01.25-12.22.50:043][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.UI_Inventory_C' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:043][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.UI_Inventory:AddChild.K2Node_FunctionEntry_15' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:044][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.UI_Inventory:EventGraph.K2Node_Event_1' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:044][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.UI_Inventory:IncrementSlotPosition.K2Node_FunctionEntry_67' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:044][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.UI_Inventory:SetSlotStyle.K2Node_FunctionEntry_31' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:045][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.SKEL_UI_Inventory_C:InventoryPanel' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:045][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.SKEL_UI_Inventory_C:ColumnPosition' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:045][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.SKEL_UI_Inventory_C:RowPosition' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:046][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.SKEL_UI_Inventory_C:RowLength' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:046][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.SKEL_UI_Inventory_C:Construct' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:046][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.UI_Inventory_C:ExecuteUbergraph_UI_Inventory' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:047][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.UI_Inventory_C:Construct' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:047][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.UI_Inventory_C:InventoryPanel' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:047][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.UI_Inventory_C:ColumnPosition' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:048][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.UI_Inventory_C:RowPosition' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:048][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.UI_Inventory_C:RowLength' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:048][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_Inventory.SKEL_UI_Inventory_C' ref from Metadata '/Game/InventoryItems/Widgets/UI_Inventory.PackageMetaData'
+[2018.01.25-12.22.50:162][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_InventorySlot.UI_InventorySlot_C' ref from Metadata '/Game/InventoryItems/Widgets/UI_InventorySlot.PackageMetaData'
+[2018.01.25-12.22.50:162][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_InventorySlot.UI_InventorySlot_C:ExecuteUbergraph_UI_InventorySlot' ref from Metadata '/Game/InventoryItems/Widgets/UI_InventorySlot.PackageMetaData'
+[2018.01.25-12.22.50:162][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_InventorySlot.UI_InventorySlot_C:B_Slot' ref from Metadata '/Game/InventoryItems/Widgets/UI_InventorySlot.PackageMetaData'
+[2018.01.25-12.22.50:163][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_InventorySlot.UI_InventorySlot_C:ItemName' ref from Metadata '/Game/InventoryItems/Widgets/UI_InventorySlot.PackageMetaData'
+[2018.01.25-12.22.50:163][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_InventorySlot.UI_InventorySlot_C:ItemInfo' ref from Metadata '/Game/InventoryItems/Widgets/UI_InventorySlot.PackageMetaData'
+[2018.01.25-12.22.50:163][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_InventorySlot.SKEL_UI_InventorySlot_C:B_Slot' ref from Metadata '/Game/InventoryItems/Widgets/UI_InventorySlot.PackageMetaData'
+[2018.01.25-12.22.50:163][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_InventorySlot.SKEL_UI_InventorySlot_C:ItemName' ref from Metadata '/Game/InventoryItems/Widgets/UI_InventorySlot.PackageMetaData'
+[2018.01.25-12.22.50:163][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_InventorySlot.SKEL_UI_InventorySlot_C:ItemInfo' ref from Metadata '/Game/InventoryItems/Widgets/UI_InventorySlot.PackageMetaData'
+[2018.01.25-12.22.50:163][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_InventorySlot.SKEL_UI_InventorySlot_C:BndEvt__B_Slot_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/InventoryItems/Widgets/UI_InventorySlot.PackageMetaData'
+[2018.01.25-12.22.50:163][513]LogMetaData: Removing '/Game/InventorySystem/Widgets/UI_InventorySlot.SKEL_UI_InventorySlot_C' ref from Metadata '/Game/InventoryItems/Widgets/UI_InventorySlot.PackageMetaData'
+[2018.01.25-12.22.50:206][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseClothes.BP_BaseClothes_C' ref from Metadata '/Game/InventoryItems/Items/BP_BaseClothes.PackageMetaData'
+[2018.01.25-12.22.50:206][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseClothes.BP_BaseClothes_C:UserConstructionScript' ref from Metadata '/Game/InventoryItems/Items/BP_BaseClothes.PackageMetaData'
+[2018.01.25-12.22.50:206][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseClothes.SKEL_BP_BaseClothes_C:UserConstructionScript' ref from Metadata '/Game/InventoryItems/Items/BP_BaseClothes.PackageMetaData'
+[2018.01.25-12.22.50:206][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseClothes.SKEL_BP_BaseClothes_C:ReceiveTick' ref from Metadata '/Game/InventoryItems/Items/BP_BaseClothes.PackageMetaData'
+[2018.01.25-12.22.50:206][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseClothes.SKEL_BP_BaseClothes_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/InventoryItems/Items/BP_BaseClothes.PackageMetaData'
+[2018.01.25-12.22.50:207][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseClothes.SKEL_BP_BaseClothes_C:ReceiveBeginPlay' ref from Metadata '/Game/InventoryItems/Items/BP_BaseClothes.PackageMetaData'
+[2018.01.25-12.22.50:207][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseClothes.BP_BaseClothes:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InventoryItems/Items/BP_BaseClothes.PackageMetaData'
+[2018.01.25-12.22.50:207][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseClothes.BP_BaseClothes:EventGraph.K2Node_Event_1' ref from Metadata '/Game/InventoryItems/Items/BP_BaseClothes.PackageMetaData'
+[2018.01.25-12.22.50:207][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseClothes.BP_BaseClothes:EventGraph.K2Node_Event_2' ref from Metadata '/Game/InventoryItems/Items/BP_BaseClothes.PackageMetaData'
+[2018.01.25-12.22.50:207][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseClothes.BP_BaseClothes:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryItems/Items/BP_BaseClothes.PackageMetaData'
+[2018.01.25-12.22.50:207][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseClothes.SKEL_BP_BaseClothes_C' ref from Metadata '/Game/InventoryItems/Items/BP_BaseClothes.PackageMetaData'
+[2018.01.25-12.22.50:262][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseConsumable.BP_BaseConsumable_C' ref from Metadata '/Game/InventoryItems/Items/BP_BaseConsumable.PackageMetaData'
+[2018.01.25-12.22.50:263][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseConsumable.BP_BaseConsumable_C:UserConstructionScript' ref from Metadata '/Game/InventoryItems/Items/BP_BaseConsumable.PackageMetaData'
+[2018.01.25-12.22.50:263][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseConsumable.SKEL_BP_BaseConsumable_C:UserConstructionScript' ref from Metadata '/Game/InventoryItems/Items/BP_BaseConsumable.PackageMetaData'
+[2018.01.25-12.22.50:263][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseConsumable.SKEL_BP_BaseConsumable_C:ReceiveTick' ref from Metadata '/Game/InventoryItems/Items/BP_BaseConsumable.PackageMetaData'
+[2018.01.25-12.22.50:263][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseConsumable.SKEL_BP_BaseConsumable_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/InventoryItems/Items/BP_BaseConsumable.PackageMetaData'
+[2018.01.25-12.22.50:263][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseConsumable.SKEL_BP_BaseConsumable_C:ReceiveBeginPlay' ref from Metadata '/Game/InventoryItems/Items/BP_BaseConsumable.PackageMetaData'
+[2018.01.25-12.22.50:264][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseConsumable.BP_BaseConsumable:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InventoryItems/Items/BP_BaseConsumable.PackageMetaData'
+[2018.01.25-12.22.50:264][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseConsumable.BP_BaseConsumable:EventGraph.K2Node_Event_1' ref from Metadata '/Game/InventoryItems/Items/BP_BaseConsumable.PackageMetaData'
+[2018.01.25-12.22.50:264][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseConsumable.BP_BaseConsumable:EventGraph.K2Node_Event_2' ref from Metadata '/Game/InventoryItems/Items/BP_BaseConsumable.PackageMetaData'
+[2018.01.25-12.22.50:264][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseConsumable.BP_BaseConsumable:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryItems/Items/BP_BaseConsumable.PackageMetaData'
+[2018.01.25-12.22.50:264][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseConsumable.SKEL_BP_BaseConsumable_C' ref from Metadata '/Game/InventoryItems/Items/BP_BaseConsumable.PackageMetaData'
+[2018.01.25-12.22.50:339][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseUpgrades.BP_BaseUpgrades_C' ref from Metadata '/Game/InventoryItems/Items/BP_BaseUpgrades.PackageMetaData'
+[2018.01.25-12.22.50:339][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseUpgrades.BP_BaseUpgrades_C:UserConstructionScript' ref from Metadata '/Game/InventoryItems/Items/BP_BaseUpgrades.PackageMetaData'
+[2018.01.25-12.22.50:340][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseUpgrades.SKEL_BP_BaseUpgrades_C:UserConstructionScript' ref from Metadata '/Game/InventoryItems/Items/BP_BaseUpgrades.PackageMetaData'
+[2018.01.25-12.22.50:340][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseUpgrades.SKEL_BP_BaseUpgrades_C:ReceiveTick' ref from Metadata '/Game/InventoryItems/Items/BP_BaseUpgrades.PackageMetaData'
+[2018.01.25-12.22.50:340][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseUpgrades.SKEL_BP_BaseUpgrades_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/InventoryItems/Items/BP_BaseUpgrades.PackageMetaData'
+[2018.01.25-12.22.50:340][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseUpgrades.SKEL_BP_BaseUpgrades_C:ReceiveBeginPlay' ref from Metadata '/Game/InventoryItems/Items/BP_BaseUpgrades.PackageMetaData'
+[2018.01.25-12.22.50:340][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseUpgrades.BP_BaseUpgrades:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InventoryItems/Items/BP_BaseUpgrades.PackageMetaData'
+[2018.01.25-12.22.50:340][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseUpgrades.BP_BaseUpgrades:EventGraph.K2Node_Event_1' ref from Metadata '/Game/InventoryItems/Items/BP_BaseUpgrades.PackageMetaData'
+[2018.01.25-12.22.50:340][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseUpgrades.BP_BaseUpgrades:EventGraph.K2Node_Event_2' ref from Metadata '/Game/InventoryItems/Items/BP_BaseUpgrades.PackageMetaData'
+[2018.01.25-12.22.50:340][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseUpgrades.BP_BaseUpgrades:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryItems/Items/BP_BaseUpgrades.PackageMetaData'
+[2018.01.25-12.22.50:341][513]LogMetaData: Removing '/Game/InventorySystem/Items/BP_BaseUpgrades.SKEL_BP_BaseUpgrades_C' ref from Metadata '/Game/InventoryItems/Items/BP_BaseUpgrades.PackageMetaData'
+[2018.01.25-12.22.50:909][513]LogSavePackage: Save=37.22ms
+[2018.01.25-12.22.50:909][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/S_InteractableVariablesED28F2414CD5707F14E31792A41C7925.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Blueprints/InteractData/S_InteractableVariables.uasset'
+[2018.01.25-12.22.50:926][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Blueprints/InteractData/S_InteractableVariables.uasset
+[2018.01.25-12.22.50:941][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Blueprints/S_ItemInfo" FILE="D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Blueprints/S_ItemInfo.uasset" SILENT=true
+[2018.01.25-12.22.51:041][513]LogSavePackage: Save=50.46ms
+[2018.01.25-12.22.51:042][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/S_ItemInfoAA5CC4C44A585D81D25D9F952CFD0B29.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Blueprints/S_ItemInfo.uasset'
+[2018.01.25-12.22.51:059][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Blueprints/S_ItemInfo.uasset
+[2018.01.25-12.22.51:076][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Blueprints/E_ItemType" FILE="D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Blueprints/E_ItemType.uasset" SILENT=true
+[2018.01.25-12.22.51:153][513]LogSavePackage: Save=34.85ms
+[2018.01.25-12.22.51:153][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/E_ItemType2AC1B61A411D5525561607B29620CE93.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Blueprints/E_ItemType.uasset'
+[2018.01.25-12.22.51:169][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Blueprints/E_ItemType.uasset
+[2018.01.25-12.22.51:464][513]LogSavePackage: Save=229.65ms
+[2018.01.25-12.22.51:464][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseInteract2EED8F75480F08709BF574BC9273A752.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Blueprints/InteractData/BP_BaseInteract.uasset'
+[2018.01.25-12.22.51:478][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Blueprints/InteractData/BP_BaseInteract.uasset
+[2018.01.25-12.22.51:609][513]LogSavePackage: Save=60.65ms
+[2018.01.25-12.22.51:609][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BPI_InteractFEB1E1A3450C107097C9108AF572887F.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Blueprints/InteractData/BPI_Interact.uasset'
+[2018.01.25-12.22.51:624][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Blueprints/InteractData/BPI_Interact.uasset
+[2018.01.25-12.22.51:638][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Items/BP_BaseItem" FILE="D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseItem.uasset" SILENT=true
+[2018.01.25-12.22.51:874][513]LogSavePackage: Save=185.71ms
+[2018.01.25-12.22.51:874][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseItem014B4F504B037627FA96038176E28714.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseItem.uasset'
+[2018.01.25-12.22.51:886][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseItem.uasset
+[2018.01.25-12.22.51:896][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Widgets/UI_Inventory" FILE="D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Widgets/UI_Inventory.uasset" SILENT=true
+[2018.01.25-12.22.53:547][513]LogSavePackage: Save=1610.52ms
+[2018.01.25-12.22.53:551][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/UI_InventoryE1148FD74B5BF5279D1169885DABDC75.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Widgets/UI_Inventory.uasset'
+[2018.01.25-12.22.53:574][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Widgets/UI_Inventory.uasset
+[2018.01.25-12.22.53:616][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Widgets/UI_InventorySlot" FILE="D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Widgets/UI_InventorySlot.uasset" SILENT=true
+[2018.01.25-12.22.53:957][513]LogSavePackage: Save=282.14ms
+[2018.01.25-12.22.53:958][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/UI_InventorySlot5498DE954AF3E7B3CF2BD8BDAE5A15E1.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Widgets/UI_InventorySlot.uasset'
+[2018.01.25-12.22.53:981][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Widgets/UI_InventorySlot.uasset
+[2018.01.25-12.22.54:000][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Items/BP_BaseClothes" FILE="D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseClothes.uasset" SILENT=true
+[2018.01.25-12.22.54:672][513]LogSavePackage: Save=140.11ms
+[2018.01.25-12.22.54:672][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseClothesB2AD07E94FE513C39F65DBA06C37753D.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseClothes.uasset'
+[2018.01.25-12.22.54:701][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseClothes.uasset
+[2018.01.25-12.22.54:731][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryItems/Items/BP_BaseClothes" FILE="D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseClothes.uasset" SILENT=true
+[2018.01.25-12.22.54:861][513]LogSavePackage: Save=35.97ms
+[2018.01.25-12.22.54:861][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseClothes1887398942D40733C042A9BCA47C9EC9.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseClothes.uasset'
+[2018.01.25-12.22.54:888][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseClothes.uasset
+[2018.01.25-12.22.54:908][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Items/BP_BaseConsumable" FILE="D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseConsumable.uasset" SILENT=true
+[2018.01.25-12.22.55:110][513]LogSavePackage: Save=152.14ms
+[2018.01.25-12.22.55:113][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseConsumableB9D3194F4E032D349A9C038C63FD1EB4.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseConsumable.uasset'
+[2018.01.25-12.22.55:122][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseConsumable.uasset
+[2018.01.25-12.22.55:135][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryItems/Items/BP_BaseConsumable" FILE="D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseConsumable.uasset" SILENT=true
+[2018.01.25-12.22.55:205][513]LogSavePackage: Save=18.77ms
+[2018.01.25-12.22.55:205][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseConsumableA0BD4A37482F46ABB843999ABCE81AA5.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseConsumable.uasset'
+[2018.01.25-12.22.55:218][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseConsumable.uasset
+[2018.01.25-12.22.55:228][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Items/BP_BaseUpgrades" FILE="D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseUpgrades.uasset" SILENT=true
+[2018.01.25-12.22.55:400][513]LogSavePackage: Save=121.34ms
+[2018.01.25-12.22.55:400][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseUpgradesE3B9F38A4F11D4F74C46A8BA1473D3D1.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseUpgrades.uasset'
+[2018.01.25-12.22.55:421][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseUpgrades.uasset
+[2018.01.25-12.22.55:445][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryItems/Items/BP_BaseUpgrades" FILE="D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseUpgrades.uasset" SILENT=true
+[2018.01.25-12.22.55:583][513]LogSavePackage: Save=61.04ms
+[2018.01.25-12.22.55:583][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseUpgradesEA5A1FAA425EF9368ED802B73459B2E2.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseUpgrades.uasset'
+[2018.01.25-12.22.55:607][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventoryItems/Items/BP_BaseUpgrades.uasset
+[2018.01.25-12.22.55:651][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Blueprints/InteractData/M_Outline" FILE="D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Blueprints/InteractData/M_Outline.uasset" SILENT=true
+[2018.01.25-12.22.55:875][513]LogSavePackage: Save=177.21ms
+[2018.01.25-12.22.55:875][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/M_OutlineFC8B2ED34742D048E8F9F8B2601A160C.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Blueprints/InteractData/M_Outline.uasset'
+[2018.01.25-12.22.55:884][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Blueprints/InteractData/M_Outline.uasset
+[2018.01.25-12.22.55:901][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Textures/ItemIcons/Icon_Ring" FILE="D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Textures/ItemIcons/Icon_Ring.uasset" SILENT=true
+[2018.01.25-12.22.56:016][513]LogSavePackage: Save=70.88ms
+[2018.01.25-12.22.56:016][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/Icon_RingC4C769114985AEFAB95520B225742292.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Textures/ItemIcons/Icon_Ring.uasset'
+[2018.01.25-12.22.56:039][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Textures/ItemIcons/Icon_Ring.uasset
+[2018.01.25-12.22.56:086][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Textures/ItemIcons/Icon_Map" FILE="D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Textures/ItemIcons/Icon_Map.uasset" SILENT=true
+[2018.01.25-12.22.56:173][513]LogSavePackage: Save=23.57ms
+[2018.01.25-12.22.56:173][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/Icon_MapBE9B5D86419B5EF28FF027BD20E37478.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Textures/ItemIcons/Icon_Map.uasset'
+[2018.01.25-12.22.56:185][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Textures/ItemIcons/Icon_Map.uasset
+[2018.01.25-12.22.56:198][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Textures/ItemIcons/Icon_Potion" FILE="D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Textures/ItemIcons/Icon_Potion.uasset" SILENT=true
+[2018.01.25-12.22.56:336][513]LogSavePackage: Save=90.44ms
+[2018.01.25-12.22.56:336][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/Icon_Potion8970EE5C48A5F277560C0D8AA88BF536.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Textures/ItemIcons/Icon_Potion.uasset'
+[2018.01.25-12.22.56:359][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Textures/ItemIcons/Icon_Potion.uasset
+[2018.01.25-12.23.01:489][513]LogSavePackage: Save=2375.04ms
+[2018.01.25-12.23.01:493][513]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_SurvivalCharacter961326494CDB76BFE1B23EA8B90A4704.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/Character/ThirdPersonBP/Blueprints/BP_SurvivalCharacter.uasset'
+[2018.01.25-12.23.01:511][513]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/Character/ThirdPersonBP/Blueprints/BP_SurvivalCharacter.uasset
+[2018.01.25-12.23.15:391][737]LogSavePackage: Save=1563.48ms
+[2018.01.25-12.23.15:391][737]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/ThirdPersonExampleMap9F9784BB434926F8555D84A593DB53A7.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.25-12.23.15:408][737]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.25-12.23.15:649][737]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 2.556
+[2018.01.25-12.23.31:886][ 35]BlueprintLog: New page: Compile BP_BaseClothes
+[2018.01.25-12.23.34:764][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Items/BP_BaseClothes" FILE="D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseClothes.uasset" SILENT=true
+[2018.01.25-12.23.35:019][ 56]LogSavePackage: Save=115.54ms
+[2018.01.25-12.23.35:020][ 56]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseClothes8C520CD8409489EB5CB8E7B1847AA272.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseClothes.uasset'
+[2018.01.25-12.23.35:038][ 56]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseClothes.uasset
+[2018.01.25-12.23.47:519][270]BlueprintLog: New page: Compile BP_BaseConsumable
+[2018.01.25-12.23.49:346][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Items/BP_BaseConsumable" FILE="D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseConsumable.uasset" SILENT=true
+[2018.01.25-12.23.49:654][289]LogSavePackage: Save=153.07ms
+[2018.01.25-12.23.49:655][289]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseConsumableA803F38346B98BF6890CD093DE8FAA13.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseConsumable.uasset'
+[2018.01.25-12.23.49:667][289]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseConsumable.uasset
+[2018.01.25-12.24.02:676][528]BlueprintLog: New page: Compile BP_BaseUpgrades
+[2018.01.25-12.24.04:436][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Items/BP_BaseUpgrades" FILE="D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseUpgrades.uasset" SILENT=true
+[2018.01.25-12.24.05:633][546]LogSavePackage: Save=38.92ms
+[2018.01.25-12.24.05:633][546]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/BP_BaseUpgradesAD5A31BF4B75F74FC50DA59BE2304136.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseUpgrades.uasset'
+[2018.01.25-12.24.05:641][546]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/InventorySystem/Items/BP_BaseUpgrades.uasset
+[2018.01.25-12.24.44:485][384]LogSavePackage: Save=1761.39ms
+[2018.01.25-12.24.44:490][384]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/ThirdPersonExampleMap1BDA3C87499D22799DA090A22C9B98D3.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.25-12.24.44:501][384]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.25-12.24.44:600][384]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 2.867
+[2018.01.25-12.24.48:093][431]LogSavePackage: Save=614.99ms
+[2018.01.25-12.24.48:093][431]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/ThirdPersonExampleMap44C955BC4F6138B67806A8BAE2A1A172.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.25-12.24.48:104][431]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.25-12.24.51:985][431]LogSavePackage: Save=3000.76ms
+[2018.01.25-12.24.51:985][431]LogSavePackage: Moving 'D:/Documents/GitHub/YoungBucks/Saved/ThirdPersonExampleMap_BuiltData45E2C3D04E45BD67961675BD1A66D902.tmp' to 'D:/Documents/GitHub/YoungBucks/Content/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.25-12.24.51:989][431]LogSavePackage: Display: Finished SavePackage D:/Documents/GitHub/YoungBucks/Content/Character/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.25-12.25.08:979][867]Cmd: QUIT_EDITOR
+[2018.01.25-12.25.09:406][867]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.25-12.25.09:407][867]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.25-12.25.09:535][867]LogExit: Preparing to exit.
+[2018.01.25-12.25.10:430][867]LogExit: Editor shut down
+[2018.01.25-12.25.10:437][867]LogExit: Transaction tracking system shut down
+[2018.01.25-12.25.10:892][867]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.25-12.25.10:893][867]LogDirectoryWatcher: A directory notification for 'D:/Documents/GitHub/YoungBucks/Content/' was aborted.
+[2018.01.25-12.25.10:894][867]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.25-12.25.10:894][867]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.25-12.25.10:895][867]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.25-12.25.10:895][867]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.25-12.25.10:895][867]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.25-12.25.11:307][867]LogExit: Object subsystem successfully closed.
+[2018.01.25-12.25.11:354][867]LogD3D11RHI: Shutdown
+[2018.01.25-12.25.11:354][867]LogD3D11RHI: CleanupD3DDevice
+[2018.01.25-12.25.11:423][867]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.25-12.25.11:458][867]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.01.25-12.25.11:458][867]LogModuleManager: Shutting down and abandoning module SequencerWidgets (552)
+[2018.01.25-12.25.11:458][867]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.01.25-12.25.11:458][867]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.01.25-12.25.11:458][867]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.01.25-12.25.11:458][867]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.25-12.25.11:458][867]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.25-12.25.11:460][867]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.25-12.25.11:460][867]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.25-12.25.11:460][867]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.25-12.25.11:460][867]LogDirectoryWatcher: A directory notification for 'D:/Documents/GitHub/YoungBucks/Content/Collections/' was aborted.
+[2018.01.25-12.25.11:460][867]LogDirectoryWatcher: A directory notification for 'D:/Documents/GitHub/YoungBucks/Content/Developers/JulesAgostini/Collections/' was aborted.
+[2018.01.25-12.25.11:460][867]LogDirectoryWatcher: A directory notification for 'D:/Documents/GitHub/YoungBucks/Saved/Collections/' was aborted.
+[2018.01.25-12.25.11:460][867]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.25-12.25.11:460][867]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.25-12.25.11:461][867]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.25-12.25.11:462][867]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.25-12.25.11:463][867]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.25-12.25.12:107][867]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.25-12.25.12:107][867]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.25-12.25.12:107][867]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.25-12.25.12:107][867]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.25-12.25.12:107][867]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.25-12.25.12:108][867]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.25-12.25.12:108][867]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.25-12.25.12:108][867]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.25-12.25.12:108][867]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.25-12.25.12:108][867]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.25-12.25.12:108][867]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.25-12.25.12:109][867]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.25-12.25.12:109][867]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.25-12.25.12:109][867]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.25-12.25.12:109][867]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.25-12.25.12:110][867]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.25-12.25.12:110][867]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.25-12.25.12:113][867]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.25-12.25.12:113][867]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.25-12.25.12:113][867]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.25-12.25.12:113][867]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.25-12.25.12:114][867]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.25-12.25.12:114][867]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.25-12.25.12:114][867]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.25-12.25.12:178][867]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.25-12.25.12:179][867]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.25-12.25.12:179][867]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.25-12.25.12:179][867]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.25-12.25.12:179][867]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.25-12.25.12:180][867]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.25-12.25.12:180][867]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.25-12.25.12:181][867]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.25-12.25.12:181][867]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.25-12.25.12:181][867]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.25-12.25.12:224][867]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.25-12.25.12:224][867]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.25-12.25.12:224][867]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.25-12.25.12:224][867]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.25-12.25.12:225][867]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.25-12.25.12:225][867]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.25-12.25.12:225][867]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.25-12.25.12:225][867]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.25-12.25.12:226][867]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.25-12.25.12:226][867]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.25-12.25.12:226][867]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.25-12.25.12:226][867]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.25-12.25.12:226][867]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.25-12.25.12:226][867]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.25-12.25.12:226][867]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.25-12.25.12:226][867]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.25-12.25.12:226][867]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.25-12.25.12:227][867]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.25-12.25.12:227][867]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.25-12.25.12:227][867]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.25-12.25.12:296][867]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.25-12.25.12:297][867]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.25-12.25.12:297][867]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.25-12.25.12:297][867]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.25-12.25.12:297][867]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.25-12.25.12:297][867]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.25-12.25.12:297][867]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.25-12.25.12:297][867]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.25-12.25.12:297][867]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.25-12.25.12:298][867]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.25-12.25.12:298][867]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.25-12.25.12:298][867]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.25-12.25.12:299][867]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.25-12.25.12:299][867]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.25-12.25.12:299][867]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.25-12.25.12:300][867]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.25-12.25.12:300][867]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.25-12.25.12:300][867]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.25-12.25.12:301][867]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.25-12.25.12:301][867]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.25-12.25.12:301][867]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.25-12.25.12:301][867]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.25-12.25.12:301][867]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.25-12.25.12:301][867]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.25-12.25.12:301][867]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.25-12.25.12:301][867]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.25-12.25.12:302][867]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.25-12.25.12:302][867]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.25-12.25.12:302][867]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.25-12.25.12:302][867]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.25-12.25.12:302][867]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.25-12.25.12:302][867]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.25-12.25.12:302][867]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.25-12.25.12:303][867]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.25-12.25.12:303][867]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.25-12.25.12:307][867]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.25-12.25.12:307][867]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.25-12.25.12:307][867]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.25-12.25.12:309][867]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.25-12.25.12:310][867]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.25-12.25.12:310][867]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.25-12.25.12:311][867]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.25-12.25.12:311][867]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.25-12.25.12:311][867]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.25-12.25.12:311][867]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.25-12.25.12:311][867]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.25-12.25.12:412][867]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.25-12.25.12:514][867]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.25-12.25.12:516][867]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.25-12.25.12:516][867]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.25-12.25.12:517][867]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.25-12.25.12:518][867]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.25-12.25.12:519][867]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.25-12.25.12:535][867]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.25-12.25.12:535][867]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.25-12.25.12:536][867]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.25-12.25.12:536][867]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.25-12.25.12:549][867]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.25-12.25.12:550][867]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.25-12.25.12:550][867]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.25-12.25.12:550][867]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.25-12.25.12:551][867]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.25-12.25.12:551][867]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.25-12.25.12:559][867]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.25-12.25.12:559][867]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.25-12.25.12:559][867]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.25-12.25.12:560][867]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.25-12.25.12:560][867]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.25-12.25.12:560][867]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.25-12.25.12:561][867]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.25-12.25.12:561][867]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.25-12.25.12:561][867]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.25-12.25.12:561][867]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.25-12.25.12:563][867]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.25-12.25.12:564][867]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.25-12.25.12:565][867]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.25-12.25.12:565][867]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.25-12.25.12:566][867]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.25-12.25.12:566][867]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.25-12.25.12:588][867]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.25-12.25.12:588][867]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.25-12.25.12:589][867]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.25-12.25.12:589][867]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.25-12.25.12:589][867]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.25-12.25.12:590][867]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.25-12.25.12:590][867]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.25-12.25.12:590][867]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.25-12.25.12:593][867]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.25-12.25.12:596][867]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.25-12.25.12:596][867]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.25-12.25.12:596][867]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.25-12.25.12:596][867]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.25-12.25.12:597][867]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.25-12.25.12:597][867]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.25-12.25.12:597][867]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.25-12.25.12:597][867]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.25-12.25.12:630][867]LogDerivedDataCache: Shutdown
+[2018.01.25-12.25.12:630][867]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.25-12.25.12:630][867]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.25-12.25.12:631][867]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.25-12.25.12:631][867]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.25-12.25.12:631][867]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.25-12.25.12:631][867]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.25-12.25.12:631][867]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.25-12.25.12:631][867]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.25-12.25.12:631][867]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.25-12.25.12:631][867]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.25-12.25.12:632][867]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.25-12.25.12:632][867]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.25-12.25.12:632][867]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.25-12.25.12:632][867]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.25-12.25.12:632][867]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.25-12.25.12:632][867]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.25-12.25.12:632][867]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.25-12.25.12:632][867]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.25-12.25.12:632][867]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.25-12.25.12:633][867]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.25-12.25.12:633][867]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.25-12.25.12:633][867]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.25-12.25.12:633][867]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.25-12.25.12:633][867]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.25-12.25.12:633][867]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.25-12.25.12:633][867]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.25-12.25.12:633][867]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.25-12.25.12:633][867]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.25-12.25.12:633][867]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.25-12.25.12:634][867]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.25-12.25.12:634][867]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.25-12.25.12:634][867]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.25-12.25.12:634][867]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.25-12.25.12:634][867]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.25-12.25.12:634][867]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.25-12.25.12:634][867]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.25-12.25.12:634][867]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.25-12.25.12:634][867]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.25-12.25.12:635][867]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.25-12.25.12:635][867]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.25-12.25.12:635][867]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.25-12.25.12:635][867]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.25-12.25.12:635][867]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.25-12.25.12:635][867]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.25-12.25.12:635][867]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.25-12.25.12:635][867]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.25-12.25.12:636][867]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.25-12.25.12:636][867]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.25-12.25.12:636][867]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.25-12.25.12:636][867]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.25-12.25.12:636][867]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.25-12.25.12:636][867]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.25-12.25.12:636][867]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.25-12.25.12:637][867]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.25-12.25.12:637][867]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17F94BF2-41E5-E76E-B344-8FB24245E346%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=fba3a3c74ed995f22415ad8ea078e1ad%7Cf24f1850ac434a23a7b79bf557a1d209%7Cda7491fa-c369-435e-95ce-702e13edd5ae&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.25-12.25.12:648][867]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.25-12.25.12:653][867]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.25-12.25.12:654][867]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.25-12.25.12:654][867]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.25-12.25.12:654][867]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.25-12.25.12:655][867]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.25-12.25.12:655][867]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.25-12.25.12:655][867]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.25-12.25.12:660][867]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.25-12.25.12:663][867]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.25-12.25.12:663][867]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.25-12.25.12:663][867]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.25-12.25.12:663][867]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.25-12.25.12:664][867]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.25-12.25.12:664][867]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.25-12.25.12:664][867]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.25-12.25.12:664][867]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.25-12.25.12:665][867]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.25-12.25.12:665][867]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.25-12.25.12:695][867]LogExit: Exiting.
+[2018.01.25-12.25.12:826][867]Log file closed, 01/25/18 13:25:12
